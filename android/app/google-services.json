@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "483251614798",
+    "firebase_url": "https://mensagenzinhas.firebaseio.com",
+    "project_id": "mensagenzinhas",
+    "storage_bucket": "mensagenzinhas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483251614798:android:7171fd1e2e3d4d5da47f1f",
+        "android_client_info": {
+          "package_name": "com.example.mensagenzinhas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483251614798-obmk84o6jhuakg3jbbchrq43p3tpp8sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALg0NkLhJX1qwuiTG_SEBBpr4ClUGfnH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483251614798-obmk84o6jhuakg3jbbchrq43p3tpp8sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
